@@ -1,2 +1,2 @@
-# UAS_181011400886_AnandaNovpricoSyahdaya
+# UAS_181011400886_AnandaNS
 UASMoProgramming
